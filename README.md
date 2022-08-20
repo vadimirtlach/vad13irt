@@ -13,7 +13,7 @@ Profile link - https://www.kaggle.com/vad13irt
 
 - [Implementation of Mixout with PyTorch](https://github.com/bloodwass/mixout) - added typizations to the code. [[pull request](https://github.com/bloodwass/mixout/pull/11)]
 - [Implementation of Mixout with PyTorch](https://github.com/bloodwass/mixout) - moved some functions to `functional` module. [[pull request](https://github.com/bloodwass/mixout/pull/12)]
-- [🤗 Transformers](https://github.com/huggingface/transformers) - extend `tokenizer.pad` for `offset_mapping`. [[issue](https://github.com/huggingface/transformers/issues/18681)]
+- [🤗 Transformers](https://github.com/huggingface/transformers) - extend `tokenizer.pad` for `offset_mapping`. [[issue](https://github.com/huggingface/transformers/issues/18681)] [[pull request](https://github.com/huggingface/transformers/pull/18705)]
 
 
 ### Contacts
