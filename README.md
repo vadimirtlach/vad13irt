@@ -12,10 +12,10 @@ The profile page can be found by this [link](https://www.kaggle.com/vad13irt). T
 ### 📝 Contributions
 
 
-- [Implementation of Mixout with PyTorch](https://github.com/bloodwass/mixout) - added typizations to the code. [[pull request](https://github.com/bloodwass/mixout/pull/11)]
-- [Implementation of Mixout with PyTorch](https://github.com/bloodwass/mixout) - moved some functions to `functional` module. [[pull request](https://github.com/bloodwass/mixout/pull/12)]
+- [Implementation of Mixout with PyTorch](https://github.com/bloodwass/mixout) - added types annotations to the code. [[pull request](https://github.com/bloodwass/mixout/pull/11)]
+- [Implementation of Mixout with PyTorch](https://github.com/bloodwass/mixout) - moved some functions to the `functional` module. [[pull request](https://github.com/bloodwass/mixout/pull/12)]
 - [🤗 Transformers](https://github.com/huggingface/transformers) - extend `tokenizer.pad` for `offset_mapping`. [[issue](https://github.com/huggingface/transformers/issues/18681)] [[pull request](https://github.com/huggingface/transformers/pull/18705)]
-
+- [PyTorch Lightning](https://github.com/Lightning-AI/lightning) - offered to add the `min_delta` argument to the `ModelCheckpoint` callback to prevent overfitting. [[issue](https://github.com/Lightning-AI/lightning/issues/14353)]
 
 ### 💬 Contacts
 You can contact me on one of the following social networks.
