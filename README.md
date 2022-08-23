@@ -8,6 +8,10 @@ The profile page can be found by this [link](https://www.kaggle.com/vad13irt). T
 
 - 🥈 [U.S. Patent Phrase to Phrase Matching](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/overview) - top 2% (26/1889)
 
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/vad13irt/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/vad13irt/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/vad13irt/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/vad13irt/discussion/light)
 
 ### 📝 Contributions
 
