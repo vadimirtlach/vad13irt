@@ -7,6 +7,7 @@ My name is Vadim. I am 16 y.o Machine Learning Engineer (MLE) from Ukraine, Dnip
 The profile page can be found by this [link](https://www.kaggle.com/vad13irt). There you can check out my other achievements.
 
 - 🥈 [U.S. Patent Phrase to Phrase Matching](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/overview) - top 2% (26/1889)
+- 🥉 [Feedback Prize - Predicting Effective Arguments](https://www.kaggle.com/competitions/feedback-prize-effectiveness/overview) - top 6% (88/1567)
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/vad13irt/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/vad13irt/dataset/light)
