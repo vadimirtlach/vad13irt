@@ -8,6 +8,7 @@ The profile page can be found by this [link](https://www.kaggle.com/vad13irt). T
 
 - 🥈 [U.S. Patent Phrase to Phrase Matching](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/overview) - top 2% (26/1889)
 - 🥉 [Feedback Prize - Predicting Effective Arguments](https://www.kaggle.com/competitions/feedback-prize-effectiveness/overview) - top 6% (85/1557) [[overview](https://www.kaggle.com/competitions/feedback-prize-effectiveness/discussion/347456)]
+- 🥉 [Google AI4Code – Understand Code in Python Notebooks](https://www.kaggle.com/competitions/AI4Code) - top 9% (96/1135)
 
 
 ### 📝 Contributions
