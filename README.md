@@ -1,6 +1,6 @@
 ### 😀 Bio
 
-My name is Vadim. I am 16 y.o Machine Learning Engineer (MLE) from Ukraine, Dnipro. I like Transformers 🤖.
+My name is Vadim. I am 17 y.o Machine Learning Engineer (MLE) from Ukraine, Dnipro. I like Transformers 🤖.
 
 ### 🏆  Kaggle
 
